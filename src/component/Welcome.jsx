@@ -1,7 +1,7 @@
 import React from "react";
 
 const Welcome = () => {
-  return <p>Welcome!</p>;
+  return <div className="box">Welcome!</div>;
 };
 
 export default Welcome;
