@@ -1,4 +1,4 @@
-// App.jsx
+//App.jsx
 import React from "react";
 import Hello from "./component/Hello";
 import Welcome from "./component/Welcome";
