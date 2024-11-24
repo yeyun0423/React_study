@@ -1,0 +1,66 @@
+{
+  "days": [
+    { "id": 1, "day": 1 },
+    { "id": 2, "day": 2 },
+    { "id": 3, "day": 3 },
+    { "id": 4, "day": 4 },
+    { "id": 5, "day": 5 }
+  ],
+  "words": [
+    { "id": 1, "day": 1, "eng": "book", "kor": "책", "isDone": false },
+    { "id": 2, "day": 1, "eng": "pen", "kor": "펜", "isDone": false },
+    { "id": 3, "day": 1, "eng": "apple", "kor": "사과", "isDone": false },
+    { "id": 4, "day": 1, "eng": "chair", "kor": "의자", "isDone": false },
+    { "id": 5, "day": 1, "eng": "table", "kor": "테이블", "isDone": false },
+    { "id": 6, "day": 1, "eng": "window", "kor": "창문", "isDone": false },
+    { "id": 7, "day": 1, "eng": "door", "kor": "문", "isDone": false },
+    { "id": 8, "day": 1, "eng": "computer", "kor": "컴퓨터", "isDone": false },
+    { "id": 9, "day": 1, "eng": "phone", "kor": "전화기", "isDone": false },
+    { "id": 10, "day": 1, "eng": "clock", "kor": "시계", "isDone": false },
+
+    { "id": 11, "day": 2, "eng": "pencil", "kor": "연필", "isDone": false },
+    { "id": 12, "day": 2, "eng": "notebook", "kor": "공책", "isDone": false },
+    { "id": 13, "day": 2, "eng": "eraser", "kor": "지우개", "isDone": false },
+    { "id": 14, "day": 2, "eng": "ruler", "kor": "자", "isDone": false },
+    { "id": 15, "day": 2, "eng": "bag", "kor": "가방", "isDone": false },
+    { "id": 16, "day": 2, "eng": "box", "kor": "상자", "isDone": false },
+    { "id": 17, "day": 2, "eng": "light", "kor": "빛", "isDone": false },
+    { "id": 18, "day": 2, "eng": "watch", "kor": "시계", "isDone": false },
+    { "id": 19, "day": 2, "eng": "paper", "kor": "종이", "isDone": false },
+
+    { "id": 21, "day": 3, "eng": "teacher", "kor": "선생님", "isDone": false },
+    { "id": 22, "day": 3, "eng": "student", "kor": "학생", "isDone": false },
+    { "id": 23, "day": 3, "eng": "school", "kor": "학교", "isDone": false },
+    { "id": 24, "day": 3, "eng": "classroom", "kor": "교실", "isDone": false },
+    { "id": 25, "day": 3, "eng": "desk", "kor": "책상", "isDone": false },
+    { "id": 26, "day": 3, "eng": "board", "kor": "칠판", "isDone": false },
+
+    { "id": 31, "day": 4, "eng": "banana", "kor": "바나나", "isDone": false },
+    { "id": 32, "day": 4, "eng": "grape", "kor": "포도", "isDone": false },
+    { "id": 33, "day": 4, "eng": "orange", "kor": "오렌지", "isDone": false },
+    { "id": 34, "day": 4, "eng": "melon", "kor": "멜론", "isDone": false },
+    { "id": 35, "day": 4, "eng": "peach", "kor": "복숭아", "isDone": false },
+    { "id": 36, "day": 4, "eng": "pear", "kor": "배", "isDone": false },
+    { "id": 37, "day": 4, "eng": "cherry", "kor": "체리", "isDone": false },
+    {
+      "id": 38,
+      "day": 4,
+      "eng": "pineapple",
+      "kor": "파인애플",
+      "isDone": false
+    },
+    { "id": 39, "day": 4, "eng": "watermelon", "kor": "수박", "isDone": false },
+    { "id": 40, "day": 4, "eng": "strawberry", "kor": "딸기", "isDone": false },
+
+    { "id": 41, "day": 5, "eng": "red", "kor": "빨간색", "isDone": false },
+    { "id": 42, "day": 5, "eng": "blue", "kor": "파란색", "isDone": false },
+    { "id": 43, "day": 5, "eng": "green", "kor": "초록색", "isDone": false },
+    { "id": 44, "day": 5, "eng": "yellow", "kor": "노란색", "isDone": false },
+    { "id": 45, "day": 5, "eng": "purple", "kor": "보라색", "isDone": false },
+    { "id": 46, "day": 5, "eng": "white", "kor": "하얀색", "isDone": false },
+    { "id": 47, "day": 5, "eng": "black", "kor": "검은색", "isDone": false },
+    { "id": 48, "day": 5, "eng": "pink", "kor": "분홍색", "isDone": false },
+    { "id": 49, "day": 5, "eng": "orange", "kor": "주황색", "isDone": false },
+    { "id": 50, "day": 5, "eng": "gray", "kor": "회색", "isDone": false }
+  ]
+}
