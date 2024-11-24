@@ -1,19 +1,24 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "./Hello.module.css";
-const Hello = () => {
-  function ShowName() {
-    console.log("Mike");
-  }
+import UserName from "./UserName";
 
-  function Change(e) {
-    console.log(e.target.value);
-  }
+const Hello = ({ age }) => {
+  const [name, setName] = useState("Mike");
+  const msg = age > 19 ? "성인" : "미성년자";
+
   return (
     <div>
-      <h1>Hello!</h1>
-      <button onClick={ShowName}>ShowName</button>
-      <button onClick={() => console.log(30)}>Showage</button>
-      <input onChange={Change}></input>
+      <h2 id="name">
+        {name}({age}):{msg}
+      </h2>
+      <UserName name={name} />
+      <button
+        onClick={() => {
+          setName(name === "Mike" ? "Jane" : "Mike");
+        }}
+      >
+        change
+      </button>
     </div>
   );
 };
